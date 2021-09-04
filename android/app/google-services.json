@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456471599661",
+    "project_id": "flach-chat-752f1",
+    "storage_bucket": "flach-chat-752f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456471599661:android:784ca920ac7fb143fab6a4",
+        "android_client_info": {
+          "package_name": "ru.sidredin.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456471599661-5l6t01nqs3rfsktf07abalc1at6134vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4nlYPoWsdVmoP16T82JBqWRLwe3IB6aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456471599661-5l6t01nqs3rfsktf07abalc1at6134vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
